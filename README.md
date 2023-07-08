@@ -15,7 +15,7 @@ Currently, I'm focusing on improving my skills in Node.js (Express) and React to
 - 🌱 Currently learning: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js) and ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ## What I'm working on
-Up next: I will be building a fitness tracker using React.js for the front-end, with AWS services and Node.js powering the back-end.
+Up next: I will be building a fitness tracker using React for the front-end, with AWS services and Node.js powering the back-end.
 
 ## Get in Touch
 - LinkedIn: [https://www.linkedin.com/in/mat%C3%ADas-roje-carrasco-2a2673273/]
