@@ -1,7 +1,7 @@
 # Hi, I'm Matías 👋
 
 I'm a full-stack developer with experience in Ruby, Ruby on Rails, HTML, CSS, and JavaScript.
-Currently, I'm focusing on improving my skills in Node (Express.js) and React.js to further enhance my expertise as a developer.
+Currently, I'm focusing on improving my skills in Node.js (Express) and React to further enhance my expertise as a developer.
 
 ## Skills
 - ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
