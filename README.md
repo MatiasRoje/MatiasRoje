@@ -1,7 +1,7 @@
 # Hi, I'm Matías 👋
 
-I'm a full-stack developer with experience in Ruby, Ruby on Rails, HTML, CSS, and JavaScript.
-Currently, I'm focusing on improving my skills in Node.js (Express) and React to further enhance my expertise as a developer.
+I'm a full-stack developer with experience in HTML, CSS, JavaScript, Typescript, React, Node.js, Ruby, Ruby on Rails and many other fields.
+Currently I'm focusing on improving my skills in Next.js and React to further enhance my expertise as a developer.
 
 ## Skills
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
@@ -16,7 +16,7 @@ Currently, I'm focusing on improving my skills in Node.js (Express) and React to
 - 🌱 Currently learning: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
 ## What I'm working on
-Up next: Up next: FilmFortress, a movie database-type website where users can rate movies and also store them in lists, using Next.js as a full stack framework.
+Up next: Up next: FilmFortress, a movie database-type website where users can rate movies and also store them in lists, developed using Next.js as a full stack framework.
 
 ## Get in Touch
 - LinkedIn: [https://www.linkedin.com/in/mat%C3%ADas-roje-carrasco-2a2673273/]
