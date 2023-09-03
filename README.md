@@ -1,6 +1,6 @@
 # Hi, I'm Matías 👋
 
-I'm a full-stack developer with experience in HTML, CSS, JavaScript, Typescript, React, Node.js, Ruby, Ruby on Rails and many other fields.
+I'm a full-stack developer with experience in HTML, CSS, JavaScript, TypeScript, React, Node.js, Ruby, Ruby on Rails and many other fields.
 Currently I'm focusing on improving my skills in Next.js and React to further enhance my expertise as a developer.
 
 ## Skills
