@@ -16,7 +16,7 @@ Currently I'm focusing on improving my skills in Next.js and React to further en
 - 🌱 Currently learning: ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
 ## What I'm working on
-Up next: Up next: FilmFortress, a movie database-type website where users can rate movies and also store them in lists, developed using Next.js as a full stack framework.
+Up next: FilmFortress, a movie database-type website where users can rate movies and also store them in lists, developed using Next.js.
 
 ## Get in Touch
 - LinkedIn: [https://www.linkedin.com/in/mat%C3%ADas-roje-carrasco-2a2673273/]
