@@ -15,7 +15,7 @@ Currently I'm focusing on improving my skills in Next.js and React to further en
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## What I'm working on
-Up next: I will be developing a personal portfolio website, where I can showcase myself and my projects. This portfolio website will be built using React and Next.js.
+Up next: I will be developing an e-commerce website where users can use a chatbox for assistance in navigating the website and obtaining information. It will be developed using Next.js and React.
 
 ## Get in Touch
-- LinkedIn: [https://www.linkedin.com/in/mat%C3%ADas-roje-carrasco-2a2673273/]
+- [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-roje-carrasco-2a2673273/)
