@@ -18,4 +18,4 @@ Currently I'm focusing on improving my skills in Next.js and React to further en
 Up next: I will be developing an e-commerce website where users can use a chatbox for assistance in navigating the website and obtaining information. It will be developed using Next.js and React.
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/mat%C3%ADas-roje-carrasco-2a2673273/)
+- [LinkedIn](https://www.linkedin.com/in/matias-roje-carrasco/)
