@@ -1,25 +1,22 @@
 # Hi, I'm Matías 👋
 
-I'm a full-stack developer with expertise in HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Ruby, Ruby on Rails, and various other fields. Next.js and React, particularly with TypeScript, are my main areas of expertise, and I am currently focusing on further enhancing my skills in these technologies to become even more proficient as a developer.
+I'm a DevOps Engineer and Full-Stack Developer with a passion for cloud technologies, automation, and scalable solutions. With expertise in AWS, Kubernetes, and modern CI/CD practices, I specialize in creating efficient, resilient infrastructures using Infrastructure as Code (IaC) tools like Terraform. My current focus is on mastering AWS services, building CI/CD pipelines, and optimizing application deployments and container orchestration.
 
-Currently, I am expanding my knowledge by learning Python and delving into the realm of Data Science. My goal is to explore new horizons such as Machine Learning and Artificial Intelligence, aiming to discover and apply innovative solutions to real-world challenges.
+Having worked extensively with technologies like Docker, Jenkins, Linux and Python, I thrive on automating processes, improving system performance, and reducing manual intervention to make development more efficient and reliable. My programming experience spans both frontend and backend development, but currently I dedicate myself to cloud engineering and infrastructure.
 
 ## Skills
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-- ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-- ![Agile](https://img.shields.io/badge/-Agile-0e9e5f?style=flat-square&logo=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- ![aws](https://skillicons.dev/icons?i=aws&theme=light) ![kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light) ![docker](https://skillicons.dev/icons?i=docker&theme=light) ![terraform](https://skillicons.dev/icons?i=terraform&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) ![github](https://skillicons.dev/icons?i=github&theme=light) ![gitlab](https://skillicons.dev/icons?i=gitlab&theme=light)
+- ![py](https://skillicons.dev/icons?i=py&theme=light) ![linux](https://skillicons.dev/icons?i=linux&theme=light) ![ansible](https://skillicons.dev/icons?i=ansible&theme=light) ![prometheus](https://skillicons.dev/icons?i=prometheus&theme=light) ![grafana](https://skillicons.dev/icons?i=grafana&theme=light)
+- ![js](https://skillicons.dev/icons?i=js&theme=light) ![ts](https://skillicons.dev/icons?i=ts&theme=light) ![react](https://skillicons.dev/icons?i=react&theme=light) ![nextjs](https://skillicons.dev/icons?i=nextjs&theme=light) ![nodejs](https://skillicons.dev/icons?i=nodejs&theme=light) ![jquery](https://skillicons.dev/icons?i=jquery&theme=light)
+- ![html](https://skillicons.dev/icons?i=html&theme=light) ![css](https://skillicons.dev/icons?i=css&theme=light) ![sass](https://skillicons.dev/icons?i=sass&theme=light) ![tailwind](https://skillicons.dev/icons?i=tailwind&theme=light)
+- ![ruby](https://skillicons.dev/icons?i=ruby&theme=light) ![rails](https://skillicons.dev/icons?i=rails&theme=light) ![php](https://skillicons.dev/icons?i=php&theme=light)
+- ![mysql](https://skillicons.dev/icons?i=mysql&theme=light) ![mongodb](https://skillicons.dev/icons?i=mongodb&theme=light) ![postgres](https://skillicons.dev/icons?i=postgres&theme=light)
+- ![postman](https://skillicons.dev/icons?i=postman&theme=light) ![git](https://skillicons.dev/icons?i=git&theme=light) ![vscode](https://skillicons.dev/icons?i=vscode&theme=light)
 
-
-## What I'm working on
-Up next, I will be developing an e-commerce website where users can utilize a chatbox for assistance in navigating the website and obtaining information. The website will be developed using Next.js and React and will include a machine learning model built by myself.
+## What’s Next
+I’m diving deeper into AWS, studying for the AWS Solutions Architect Associate Certification. After achieving that, I plan to pursue certifications in Terraform or Kubernetes to solidify my expertise in cloud infrastructure and container management. My goal is to become an AWS cloud expert, capable of designing scalable, cost-effective solutions.
 
 ## Get in Touch
+- [Portfolio](https://www.matiasroje-devops.de/)
 - [LinkedIn](https://www.linkedin.com/in/matias-roje-carrasco/)
+- [GitLab](https://gitlab.com/rojechi)
