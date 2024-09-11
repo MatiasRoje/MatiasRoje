@@ -2,7 +2,7 @@
 
 I'm a DevOps Engineer and Full-Stack Developer with a passion for cloud technologies, automation, and scalable solutions. With expertise in AWS, Kubernetes, and modern CI/CD practices, I specialize in creating efficient, resilient infrastructures using Infrastructure as Code (IaC) tools like Terraform. My current focus is on mastering AWS services, building CI/CD pipelines, and optimizing application deployments and container orchestration.
 
-Having worked extensively with technologies like Docker, Jenkins, Linux and Python, I thrive on automating processes, improving system performance, and reducing manual intervention to make development more efficient and reliable. My programming experience spans both frontend and backend development, but currently I dedicate myself to cloud engineering and infrastructure.
+Having worked extensively with technologies like Docker, Jenkins, Linux and Python, I thrive on automating processes, improving system performance, and reducing manual intervention to make development more efficient and reliable. My programming experience spans both frontend and backend development, with my core tech stack including JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB, but currently I dedicate myself to cloud engineering and infrastructure.
 
 ## Skills
 - ![aws](https://skillicons.dev/icons?i=aws&theme=light) ![kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light) ![docker](https://skillicons.dev/icons?i=docker&theme=light) ![terraform](https://skillicons.dev/icons?i=terraform&theme=light) ![jenkins](https://skillicons.dev/icons?i=jenkins&theme=light) ![github](https://skillicons.dev/icons?i=github&theme=light) ![gitlab](https://skillicons.dev/icons?i=gitlab&theme=light)
